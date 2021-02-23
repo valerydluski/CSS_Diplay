@@ -1,0 +1,14 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 150%;
+}
+
+strong,
+h2 {
+  display: none;
+}
+
+em,
+h3 {
+  visibility: hidden;
+}
