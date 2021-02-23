@@ -1,0 +1,19 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 150%;
+  border: 3px solid red;
+  width: 300px;
+}
+
+h1 {
+  border: 3px dotted green;
+}
+
+section {
+  border: 3px dashed blue;
+}
+
+p {
+  border: 3px solid black;
+  margin: 3rem;
+}
