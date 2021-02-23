@@ -1,0 +1,25 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 150%;
+}
+
+p {
+  border: 3px solid black;
+}
+
+p * {
+  border: 3px dotted green;
+}
+
+strong {
+  background-color: yellow;
+}
+
+em {
+  background-color: pink;
+  margin: 1rem;
+}
+
+a {
+  width: 1000px;
+}
