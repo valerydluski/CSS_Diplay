@@ -1,0 +1,13 @@
+.row {
+  border: 2px solid red;
+  display: flex;
+}
+.box {
+  border: 2px dotted blue;
+  flex-basis: 20%;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 150%;
+}
