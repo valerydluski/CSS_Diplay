@@ -1,0 +1,11 @@
+/* This CSS is to make things pretty. Nothing needs to be changed here. */
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 150%;
+}
+
+.list {
+  display: list-item;
+  margin: 1.5rem;
+  list-style-position: inside;
+}
