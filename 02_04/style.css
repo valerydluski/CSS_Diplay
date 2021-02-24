@@ -1,0 +1,42 @@
+table {
+  border: 2px solid red;
+  /* display: table;
+  display: inline-table; */
+}
+caption {
+  background-color: #cfc;
+  /* display: table-caption; */
+}
+thead {
+  background-color: #cff;
+  /* display: table-header-group; */
+}
+tbody {
+  background-color: #ffc;
+  /* display: table-row-group; */
+}
+tfoot {
+  background-color: #fcf;
+  /* display: table-footer-group; */
+}
+tr {
+  /* background-color: #ccc; */
+  /* display: table-row; */
+}
+td,
+th {
+  border: 2px dotted blue;
+  /* display: table-cell; */
+}
+col {
+  /* display: table-column; */
+}
+colgroup {
+  /* display: table-column-group; */
+}
+
+/* This CSS is to make things pretty. Nothing needs to be changed here. */
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 150%;
+}
