@@ -1,0 +1,27 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+  border: 2px solid blue;
+  display: inline-block;
+  margin: 0.5rem;
+}
+a {
+  text-decoration: none;
+  background-color: #fcc;
+  color: #600;
+  display: block;
+  padding: 0.5rem;
+}
+a:hover {
+  background-color: #600;
+  color: #fcc;
+}
+
+/* This CSS is to make things pretty. Nothing needs to be changed here. */
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 150%;
+}

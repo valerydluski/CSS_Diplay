@@ -1,0 +1,14 @@
+section {
+  border: 2px solid red;
+  background-color: #fcc;
+  display: flow-root;
+}
+
+img {
+  float: left;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 150%;
+}
